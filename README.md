@@ -1,12 +1,9 @@
 # UIFrame
-***
 - Copyright © 2016-2020 Leg
 -     Version 1.0.0
 - support 979477187@qq.com
 
-***
 ## 介绍
-***
  - 支持UI预设热更新
  - 统一的接口管理UI加载、销毁等，自动处理UI层级
  - 栈管理UI跳转
